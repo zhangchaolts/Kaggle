@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="lib/commons-math-2.0.jar" sourcepath="C:/Users/jinbol/.m2/repository/org/apache/commons/commons-math/2.0/commons-math-2.0-sources.jar"/>
+	<classpathentry kind="lib" path="lib/java-cup-0.11a.jar"/>
+	<classpathentry kind="lib" path="lib/junit-3.8.1.jar"/>
+	<classpathentry kind="lib" path="lib/weka-stable-3.6.6.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

@@ -1,0 +1,4 @@
+java -Xmx1500m -classpath d:JAVA/Maven/repository/nz/ac/waikato/cms/weka/weka-stable/3.6.6/weka-stable-3.6.6.jar  weka.core.converters.CSVLoader l:recsys/data/track1/combine_result2.csv > l:recsys/data/track1/combine_result2.arff
+
+
+java -Xmx7000m -classpath .m2/repository/nz/ac/waikato/cms/weka/weka-stable/3.6.6/weka-stable-3.6.6.jar weka.core.converters.CSVLoader k:recsys/data/track1/predict.csv > k:recsys/data/track1/predict.arff
